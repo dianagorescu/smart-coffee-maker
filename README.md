@@ -2,7 +2,8 @@ This is a simple command-line controlled coffee maker implemented in Python. It 
 Installation
 
 To run the script, you need to have Python installed on your system. This script is compatible with both Python 2 and Python 3.
-How to Use
+How to Use:
+
 Clone this repository to your local machine.
 
     git clone https://github.com/dianagorescu/smart-coffee-maker.git
