@@ -8,7 +8,7 @@ How to Use
 
 bash
 
-git clone https://github.com/dianagorescu/smart-coffee-maker/.git
+git clone https://github.com/dianagorescu/smart-coffee-maker.git
 
     Navigate to the project directory.
 
