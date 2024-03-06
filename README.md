@@ -30,9 +30,9 @@ Available Coffee Types
 
 Resources
 
-    Water: Available resources for making coffee.
-    Coffee: Available resources for making coffee.
-    Milk: Available resources for making coffee.
+    Water
+    Coffee
+    Milk
 
 Additional Notes
 
