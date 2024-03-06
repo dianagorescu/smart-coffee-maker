@@ -3,24 +3,14 @@ Installation
 
 To run the script, you need to have Python installed on your system. This script is compatible with both Python 2 and Python 3.
 How to Use
+Clone this repository to your local machine.
 
-    Clone this repository to your local machine.
+    git clone https://github.com/dianagorescu/smart-coffee-maker.git
 
-bash
+Run the script.
 
-git clone https://github.com/dianagorescu/smart-coffee-maker.git
+    python3 coffee_maker.py
 
-    Navigate to the project directory.
-
-bash
-
-cd coffee-maker
-
-    Run the script.
-
-bash
-
-python3 coffee_maker.py
 
 Commands
 
